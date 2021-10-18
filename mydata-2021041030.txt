@@ -1,0 +1,5 @@
+name : Kim Minchan
+registory number : 2021041030
+major : Software Engineering
+year : 1
+Courses taken : Opensource software understanding and practice
