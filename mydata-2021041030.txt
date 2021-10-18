@@ -3,6 +3,6 @@ registory number : 2021041030
 major : Software Engineering
 year : 1
 Courses taken : Opensource software understanding and practice
-Quote of the day : When Life Gives You Lemons, Make Life Take The Lemons Back
+
 
 
